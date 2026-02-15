@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "赤と青",
+  "base_artist": "ROTH BART BARON",
+  "createdAt": "2026-02-15T14:25:58.713561Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "赤と青",
+      "artist": "ROTH BART BARON",
+      "has_synced": true,
+      "path": "select/01_赤と青_ROTH_BART_BARON.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "赤と青",
+      "artist": "ROTH BART BARON",
+      "has_synced": false,
+      "path": "select/pl_01_赤と青_ROTH_BART_BARON.txt"
+    }
+  ]
+}
